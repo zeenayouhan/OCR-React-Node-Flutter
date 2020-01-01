@@ -1,0 +1,83 @@
+.header{
+    background-color:rgba(109, 109, 109, 0.733);
+    background-image: linear-gradient(#d1d1d1,#1111);
+    width: 99.50%;
+    height: 150px;
+    margin-top: 3px;
+    border-radius: 10px;
+    margin-left: .25%;
+}
+.name{
+    color:black;
+    font-family: serif;
+    padding-top: 58px;
+    padding-left: 10%; 
+}
+.header img{
+    float: left;
+    width: 125px;
+    height: 100px;
+    margin-top: 13px;
+    margin-left: 15px;
+}
+ 
+
+.header h2{
+    position: relative;
+}
+.mainImage img{
+    margin-top: 0.25%;
+    height: 200px;
+    width: 99.5%;
+    border-radius: 10px;
+    margin-left: .25%;
+}
+
+.btn {
+   
+    position: relative;
+    float: 25px;
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: -190px;
+    margin-left:94%;
+    border-radius: 80px;
+  }
+
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+.downloadtxt { 
+    font-family: serif;
+    font-weight: bold;
+    margin-top: 2.5%;
+    
+    text-align: center;
+  }
+ 
+  .downloadbtn {
+   
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 40%;
+    border-radius: 10px;
+  }
+
+  .downloadbtn:hover {
+    background-color: RoyalBlue;
+  }
+
+  .components{
+    margin-top: -3.75%;
+  }
+
+ 
